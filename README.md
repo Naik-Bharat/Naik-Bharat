@@ -1,9 +1,16 @@
 ![GIF](https://i.imgur.com/fhVTAyV.gif)
 
 # Hey there, I'm Bharat
-![Bharat's github stats](https://github-readme-stats.vercel.app/api?username=Naik-Bharat&include_all_commits=true&show_icons=true&hide=contribs&theme=transparent)
+![Bharat's github stats](https://github-readme-stats.vercel.app/api?username=Naik-Bharat&include_all_commits=true&hide_border=true&show_icons=true&hide=contribs&theme=transparent)
 
 ![GIF](https://i.imgur.com/fhVTAyV.gif)
+
+## I'm an undergrad student currently into automation and some AI
+
+- 💻 Love using Linux, currently using Arch
+- 💼 I’m pursuing a Bachelor's degree in Computer Science and AI from **NSUT**
+- 💬 Connect with me about anything, I would be happy to collaborate
+- 📫 Please email via bharatnaik777@gmail.com to reach me
 
 ## I am familiar with 
 [<img alt="Python" height="40px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" />
@@ -19,3 +26,5 @@
 <img alt="React" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" />
 <img alt="MySQL" height="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <img alt="PostgreSQL" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /> ](https://github.com/Naik-Bharat)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naik-Bharat&hide_progress=true&layout=compact&theme=transparent)](https://github.com/Naik-Bharat)
